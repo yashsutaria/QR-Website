@@ -5,9 +5,3 @@
     text-align: -webkit-center;
     margin-top: 10%;
 }
-
-.grady{
-    background-color: red; /* For browsers that do not support gradients */
-    background-image: conic-gradient(from 90deg,  yellow, green);
-    
-}
